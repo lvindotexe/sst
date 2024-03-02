@@ -1,5 +1,11 @@
 # @serverless-stack/cli2
 
+## 2.40.7
+
+### Patch Changes
+
+- [#3674](https://github.com/sst/sst/pull/3674) [`602ddbfb5`](https://github.com/sst/sst/commit/602ddbfb58cbb19ded03f9c2b252821a5baf2cc3) Thanks [@mikeyaa](https://github.com/mikeyaa)! - Function: don't overwrite description, but add Live Lambda label
+
 ## 2.40.6
 
 ### Patch Changes
